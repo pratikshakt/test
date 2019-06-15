@@ -91,3 +91,4 @@ mtcars$am<- as.factor(mtcars$am)
 mtcars[1:5,1:2]
 names(mtcars)
 mtcars[1:5,c(1,9)]
+#####
